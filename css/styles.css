@@ -1,21 +1,38 @@
-body{
-background-color: aquamarine;
+body {
+    /* your other stuff */
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: lightblue;
+    align-items: center;
 }
-.{
+
+. {
     margin: 0;
     padding: 0;
 }
-.tata{
-    max-width: 360px;
-    margin: 0 auto;
+
+.tata {
+    max-width: 25%;
+    margin: 50px 0px;
+    background-color: white;
+    padding: 1rem;
+
 }
-.tate img{
-    padding: 50px 50px;
-    background-color: lightseagreen;
-    width:80% ;
+
+.tata img {
+    padding: 0.2em 0.2rem;
+    /* Change this to REM */
+    width: 70%;
+    max-height: 50%;
+    margin-left: ;
+
+    /* new */
 }
-.text{
+
+.text {
     background-color: aliceblue;
+    max-width: 70%;
     text-align: center;
     color: hsl(228, 45%, 44%);
 }
