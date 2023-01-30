@@ -1,0 +1,21 @@
+body{
+background-color: aquamarine;
+}
+.{
+    margin: 0;
+    padding: 0;
+}
+.tata{
+    max-width: 360px;
+    margin: 0 auto;
+}
+.tate img{
+    padding: 50px 50px;
+    background-color: lightseagreen;
+    width:80% ;
+}
+.text{
+    background-color: aliceblue;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
