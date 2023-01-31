@@ -4,35 +4,32 @@ body {
     display: grid;
     place-items: center;
     background-color: lightblue;
-    align-items: center;
+    
 }
 
 . {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 .tata {
-    max-width: 25%;
-    margin: 50px 0px;
-    background-color: white;
-    padding: 1rem;
-
+    max-width: 20rem;
+        margin: 1rem;
+        background-color: white;
+        padding: 1rem;
+        text-align: center;
+        color: hsl(228, 45%, 44%);
+        border-radius: 10px;
 }
 
 .tata img {
-    padding: 0.2em 0.2rem;
-    /* Change this to REM */
-    width: 70%;
-    max-height: 50%;
-    margin-left: ;
-
-    /* new */
+    width: 100%;
 }
 
 .text {
     background-color: aliceblue;
-    max-width: 70%;
+    
     text-align: center;
     color: hsl(228, 45%, 44%);
 }
