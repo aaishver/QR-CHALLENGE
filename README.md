@@ -1,2 +1,2 @@
 # QR-CHALLENGE
-ON DEVELOPMENT 
+completed using html and css 
